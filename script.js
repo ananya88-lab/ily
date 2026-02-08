@@ -16,7 +16,7 @@ function moveBtn() {
 
 function finalYes() {
   document.getElementById("finalText").innerHTML =
-    "Always you, Nazeer ❤️ Happy Valentine’s to us ♾️";
+    "I Love You Babyyy❤️ Happy Valentine’s to us ♾️";
 
   startConfetti();
 }
